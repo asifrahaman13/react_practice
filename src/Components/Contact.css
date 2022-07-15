@@ -1,0 +1,35 @@
+.contact{
+    background-color:purple;
+    height:34vh;
+}
+.text-center{
+    text-align:center;
+}
+.forms{
+    max-width:1000px;
+    margin:42px auto;
+}
+.forms input{
+    margin:35px 0;
+    padding:5px 3px;
+    width:100%;
+    font-size:20px;
+    border:1px solid purple;
+    border-radius:6px;
+}
+.btn-dark{
+    color:white;
+    background-color:purple;
+    border:3px solid purple;
+    border-radius: 10px;
+    padding: 10px;
+}
+.container{
+    background-color:light grey;
+}
+h2{
+    font-size:80px;
+    color:purple;
+    padding-top:50px;
+    font-style:italic;
+}

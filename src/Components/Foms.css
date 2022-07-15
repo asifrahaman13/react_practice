@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: "red";
+}
+
+.container {
+    padding: 400px;
+    text-align: center;
+    color: purple;
+}
+
+button {
+    color: white;
+    height: 100px;
+    width: 200px;
+    border-radius: 30px;
+    border: 1px solid white;
+    background-color: purple;
+}
+
+.back {
+    background-color: rgb(212, 210, 210);
+}

@@ -1,0 +1,9 @@
+.foot {
+    text-align: center;
+    padding: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(89, 78, 119);
+}
